@@ -1,0 +1,42 @@
+gnu028:~/summer/cs3423/assignments/Proj1> Proj1.bash < p1Input.txt
+Enter of the of the following actions or press CTRL-D to exit
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Enter of the of the following actions or press CTRL-D to exit
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Enter of the of the following actions or press CTRL-D to exit
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Error: customer already exists
+Enter of the of the following actions or press CTRL-D to exit
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Email: sweet@xyz.com
+Name: Candy Barr
+Apt: APT-3D
+Balance: 0
+Rent Amt: 900
+Due Date: 2017-10-07
+Enter of the of the following actions or press CTRL-D to exit
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Error: apartment number not found
+Enter of the of the following actions or press CTRL-D to exit
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Enter of the of the following actions or press CTRL-D to exit
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Error: customer not found
+Enter of the of the following actions or press CTRL-D to exit
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number

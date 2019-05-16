@@ -1,0 +1,4 @@
+My name is Jordan McCarthy
+I am running this script from /home/vei895/summer/cs3423/assignments
+My username is vei895
+I am logged in to gnu008
